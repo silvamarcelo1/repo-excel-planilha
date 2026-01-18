@@ -6,12 +6,12 @@ O Painel do Investidor permite acompanhar aportes, rentabilidade, evolução do 
 
 📊 Indicadores Acompanhados
 
-Total investido
-Evolução Patrimônio
-Rentabilidade total (%)
-Evolução anual
-Controle de aportes mensais
-Apoio à tomada de decisão financeira
+1️⃣Total investido
+1️⃣ Evolução Patrimônio
+1️⃣ Rentabilidade total (%)
+1️⃣ Evolução anual
+1️⃣ Controle de aportes mensais
+1️⃣ Apoio à tomada de decisão financeira
 
 📈 Estrutura da Planilha
 
