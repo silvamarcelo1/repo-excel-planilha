@@ -17,6 +17,6 @@ A planilha é composta pelas seguintes informaçõs:
 
 1️⃣ Cadastro de Investimentos
 1️⃣ Tipo de investimento (Renda Fixa, Ações, Fundos, Cripto, etc.)
-Instituição financeira
-Data do aporte
-Valor investido
+1️⃣ Instituição financeira
+1️⃣ Data do aporte
+1️⃣ Valor investido
