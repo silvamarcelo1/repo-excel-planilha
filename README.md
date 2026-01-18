@@ -4,7 +4,7 @@
 
 O Painel do Investidor permite acompanhar aportes, rentabilidade, evolução do patrimônio e distribuição dos investimentos de forma clara e visual.
 
-Planilha completa de investimentos que possibilite:
+Planilha de investimentos que possibilite:
 
 Controle de aportes mensais
 Acompanhamento da rentabilidade
@@ -13,10 +13,7 @@ Apoio à tomada de decisão financeira
 
 📈 Estrutura da Planilha
 
-A planilha é composta pelas seguintes informaçõs:
-
-1️⃣ Cadastro de Investimentos
-1️⃣ Tipo de investimento (Renda Fixa, Ações, Fundos, Cripto, etc.)
-1️⃣ Instituição financeira
-1️⃣ Data do aporte
-1️⃣ Valor investido
+1️⃣ Acompanhe ser investimento de FII
+1️⃣ Investimento por tipo de FII (papel, tijolo, híbrido, FOFs, desenvolvimento, hotelaria.)
+1️⃣ Cenário
+1️⃣ Valor do aporte
